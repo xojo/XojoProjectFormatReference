@@ -1,10 +1,18 @@
-# Xojo (formerly REALbasic and Real Studio)
-Builds - */
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
+# Xojo IDE state (per-user, binary)
 *.xojo_uistate
-*.obsolete*
+
+# Build output (UseBuildsFolder=True puts builds in "Builds - <Project>")
+Builds*/
+Build/
+
+# Xojo agentic-mode handshake files
+XojoRunProject.txt
+XojoCompileErrors.txt
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE leftovers when an item with child files is replaced
+*.obsolete_*/

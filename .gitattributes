@@ -1,0 +1,8 @@
+# Normalize text files to LF in the repository; check out in the platform's native ending.
+# The Xojo IDE reads both CRLF and LF and preserves each file's existing ending on save,
+# so a checkout in native endings stays consistent with what the IDE writes on that platform.
+* text=auto
+
+# Binary IDE files: never convert
+*.xojo_resources binary
+*.xojo_uistate   binary

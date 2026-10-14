@@ -1,0 +1,8 @@
+#tag ColorGroup
+	CodeName=NamedColorGroup
+	#tag Color
+		Type=2
+		Platform=3
+		Name=bootstrap|primary
+	#tag EndColor
+#tag EndColorGroup
