@@ -1,0 +1,8 @@
+#tag ColorGroup
+	CodeName=NamedColorGroup
+	#tag Color
+		Type=2
+		Platform=2
+		Name=Android|primary_text
+	#tag EndColor
+#tag EndColorGroup

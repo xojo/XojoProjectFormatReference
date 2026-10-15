@@ -1,6 +1,6 @@
 # Xojo Web Project — Format Reference
 
-A Xojo **Web** project saved by the IDE in text project format (Xojo 2026r3). Every file is unedited IDE output.
+A Xojo **Web** project saved by the IDE in text project format (Xojo 2026r3+). Every file is unedited IDE output.
 
 - **Use it as a reference, not a template.** Don't copy this project or its files. Read them to see how the IDE
   writes each file type, then write your own files the same way.

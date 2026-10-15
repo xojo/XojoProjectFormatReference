@@ -1,0 +1,8 @@
+#tag ColorGroup
+	CodeName=SingleColorGroup
+	#tag Color
+		Type=0
+		Platform=2
+		Light=00F90000
+	#tag EndColor
+#tag EndColorGroup
